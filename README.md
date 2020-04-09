@@ -1,2 +1,2 @@
-# maze
- Maze game in blitz3d
+# b3d_maze
+Blitz3d
